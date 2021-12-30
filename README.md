@@ -11,4 +11,3 @@ Modify the API key var in the `main.go` file.
 const apiKey string = "{Your API Key Here}"
 ```
 Then run `sudo make install` and the binary will be placed at `/usr/bin/shodan`.
-# shodan_query
