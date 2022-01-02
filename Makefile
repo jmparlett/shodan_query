@@ -5,4 +5,4 @@ shodan: main.go $(SHODANDIR)
 
 install:
 	make shodan 
-	mv main /usr/bin/shodan
+	mv main /usr/local/bin/shodan
